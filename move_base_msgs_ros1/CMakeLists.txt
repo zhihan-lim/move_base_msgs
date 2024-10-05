@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.0.2)
-project(kabam_msgs)
+project(move_base_msgs)
 
 ## Compile as C++11, supported in ROS Kinetic and newer
 set(CMAKE_CXX_STANDARD 11)
