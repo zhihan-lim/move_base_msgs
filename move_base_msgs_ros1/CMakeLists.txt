@@ -1,4 +1,5 @@
 cmake_minimum_required(VERSION 3.0.2)
+cmake_policy(SET CMP0057 NEW)
 project(move_base_msgs)
 
 ## Compile as C++11, supported in ROS Kinetic and newer
